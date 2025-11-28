@@ -1,16 +1,36 @@
-## Hi there 👋
+### Howdy! Stay a while and listen!  🐸
 
-<!--
-**athirson6/athirson6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying System Analysis and Development at Mackenzie
+- 🐸 I'm currently working at Alvarez and Marsal as Development Intern
+- 🌱 I’m currently learning Python, C# and MySQL
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Frogs are amazing
 
-Here are some ideas to get you started:
+### Three rhymes that define me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - <a href="https://www.youtube.com/watch?v=Z3CnfFQENkw">I'm dying of thirst</a>
+ - <a href="https://www.youtube.com/watch?v=4FO93sgY3S4">Your lines doesn't need to be great or bad, they just need to be yours</a>
+ - <a href="https://www.youtube.com/watch?v=NM2N3-5NBtE">Time doesn't stop, so neither do I</a>
+ 
+  <div align="center">
+    <img src="https://c.tenor.com/cBmz8RTK_JsAAAAC/typing-anime.gif" alt="Typing">
+  </div>
+  ##
+  
+  <div style="display: flex; flex-direction: column;">
+    <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+    <img align="center" alt="Mui" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg">
+    <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">        
+  </div>
+  
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/athirson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div> 
